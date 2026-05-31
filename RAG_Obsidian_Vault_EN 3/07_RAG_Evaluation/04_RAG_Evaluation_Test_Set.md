@@ -1,0 +1,22 @@
+---
+tags:
+  - llm
+  - rag
+---
+
+# RAG Evaluation Test Set
+
+## One-line Explanation
+
+Write your own understanding here.
+
+## Key Notes
+
+- Concept:
+- Input:
+- Output:
+- Use case:
+
+## Related Notes
+
+- [[]]

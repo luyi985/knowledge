@@ -1,0 +1,22 @@
+---
+tags:
+  - llm
+  - rag
+---
+
+# Semantic Shift Detection
+
+## One-line Explanation
+
+Write your own understanding here.
+
+## Key Notes
+
+- Concept:
+- Input:
+- Output:
+- Use case:
+
+## Related Notes
+
+- [[]]
